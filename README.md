@@ -1,4 +1,4 @@
-# 📚 Emotion-Aware Book Recommendation System
+# 📚 Emotion-Aware Book Recommender
 
 An end-to-end **NLP-powered recommendation engine** that moves beyond simple keyword matching. This system leverages Transformer models to understand **semantic context**, **broad categorization**, and the **emotional resonance** of book descriptions.
 
