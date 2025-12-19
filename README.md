@@ -27,7 +27,7 @@ The heavy NLP computation is performed **offline** to ensure the final user-faci
 * 🖥️ **Interactive UI:** A sleek Gradio dashboard for real-time exploration.
 
 ---
-
+![gradio-dashboard](gradio.png)
 ## 📂 Repository Structure
 
 ```text
